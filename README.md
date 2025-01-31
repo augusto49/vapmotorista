@@ -1,1 +1,1 @@
-Aplicativo do lado do motorista integrado com bakcend em python
+Aplicativo do lado do motorista integrado com backend em python
